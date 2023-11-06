@@ -23,15 +23,3 @@ indexes = ['free', 'used', 'total']
 columns = [balance['free'], balance['used'], balance['total']]
 df = pd.DataFrame(columns, index=indexes)
 print(df)
-
-# print('')
-# print('----- GATEIO EXCHANCE -----')
-# exchange = ccxt.gateio(GATEIO_KEYS_TEST)
-# exchange.options['sandboxMode'] = True
-# # exchange.options['defaultType'] =  'future'  # 'future', 'swap'
-# balance = exchange.fetch_balance()
-# balance_json = json.dumps(balance)
-# indexes = ['free', 'used', 'total']
-# columns = [balance['free'], balance['used'], balance['total']]
-# df = pd.DataFrame(columns, index=indexes)
-# print(df)
