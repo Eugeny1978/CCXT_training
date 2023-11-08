@@ -31,3 +31,8 @@ symbol6 = 'uETHUSDT'
 # order_book = binance.fetch_order_book(symbol, limit=5000) # , max limit=5000,  limit=100 - по умолчанию
 # order_book_json = json.dumps(order_book)
 # print(order_book_json)
+
+binance = ccxt.binance(BINANCE_KEYS) # Публичный Запрос. Авторизация не Требуется
+binance.load_markets()
+order_book = binance.fetch_order_book(symbol, limit=5000) # , max limit=5000,  limit=100 - по умолчанию
+binance.fetch_orders()

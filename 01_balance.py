@@ -41,3 +41,4 @@ indexes = ['free', 'used', 'total']
 columns = [balance['free'], balance['used'], balance['total']]
 df = pd.DataFrame(columns, index=indexes)
 print(df)
+
