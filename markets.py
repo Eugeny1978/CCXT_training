@@ -9,25 +9,25 @@ def jprint(data):
     print(json.dumps(data), div_line, sep='\n')
 
 # print('----- BYBIT EXCHANCE -----')
-SYMBOL = 'ETH/USDT'
-connect = ccxt.bybit()
-markets = connect.load_markets()
-market_symbol = markets[SYMBOL]
-
-jprint(market_symbol)
+# SYMBOL = 'ETH/USDT'
+# connect = ccxt.bybit()
+# markets = connect.load_markets()
+# market_symbol = markets[SYMBOL]
+#
+# jprint(market_symbol)
 
 # print('----- BITTEAM EXCHANCE -----')
-# SYMBOL = 'DUSD/USDT'
-# # connect = ccxt.bitteam(BITTIM_KEYS)
-#
+SYMBOL = 'DUSD/USDT'
+connect = ccxt.bitteam(BITTIM_KEYS)
+
 # connect = ccxt.bitteam()
 # markets = connect.load_markets()
-# jprint(markets)
+# jprint(markets[SYMBOL])
 
-# ledger = connect.fetch_ledger()
+# ledger = connect.fetch_ledger() # ccxt.base.errors.NotSupported: bitteam fetchLedger() is not supported yet
 # jprint(ledger)
 #
-# my_trades = connect.fetch_my_trades(SYMBOL)
-# jprint(my_trades)
+my_trades = connect.fetch_my_trades(SYMBOL)
+jprint(my_trades)
 
 

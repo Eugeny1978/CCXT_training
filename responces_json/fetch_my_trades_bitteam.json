@@ -1,0 +1,694 @@
+[
+  {
+    "id": "39588216",
+    "order": "148723574",
+    "timestamp": 1711377140000,
+    "datetime": "2024-03-25T14:32:20.000Z",
+    "symbol": "DUSD/USDT",
+    "type": null,
+    "side": "buy",
+    "takerOrMaker": "maker",
+    "price": 0.99805,
+    "amount": 4.50382084,
+    "cost": 4.495038389362,
+    "fee": {
+      "currency": "DUSD",
+      "cost": 0.0,
+      "rate": null
+    },
+    "info": {
+      "id": "39588216",
+      "tradeId": "349",
+      "makerOrderId": "148723574",
+      "takerOrderId": "148774963",
+      "pairId": "54",
+      "quantity": "4.50382084",
+      "price": "0.99805",
+      "isBuyerMaker": true,
+      "baseDecimals": "18",
+      "quoteDecimals": "6",
+      "side": "sell",
+      "timestamp": "1711377140",
+      "rewarded": true,
+      "makerUserId": "22813",
+      "takerUserId": "22814",
+      "baseCurrencyId": "36",
+      "quoteCurrencyId": "3",
+      "feeMaker": {
+        "amount": "0",
+        "symbol": "dusd",
+        "userId": "22813",
+        "decimals": "18",
+        "symbolId": "36",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "feeTaker": {
+        "amount": "0",
+        "symbol": "usdt",
+        "userId": "22814",
+        "decimals": "6",
+        "symbolId": "3",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "pair": "dusd_usdt",
+      "createdAt": "2024-03-25T14:32:20.376Z",
+      "updatedAt": "2024-03-25T14:32:20.376Z",
+      "isCurrentSide": "maker"
+    },
+    "fees": [
+      {
+        "currency": "DUSD",
+        "cost": 0.0,
+        "rate": null
+      }
+    ]
+  },
+  {
+    "id": "39588217",
+    "order": "148734409",
+    "timestamp": 1711377140000,
+    "datetime": "2024-03-25T14:32:20.000Z",
+    "symbol": "DUSD/USDT",
+    "type": null,
+    "side": "buy",
+    "takerOrMaker": "maker",
+    "price": 0.999,
+    "amount": 22.72715916,
+    "cost": 22.70443200084,
+    "fee": {
+      "currency": "DUSD",
+      "cost": 0.0,
+      "rate": null
+    },
+    "info": {
+      "id": "39588217",
+      "tradeId": "348",
+      "makerOrderId": "148734409",
+      "takerOrderId": "148774963",
+      "pairId": "54",
+      "quantity": "22.72715916",
+      "price": "0.999",
+      "isBuyerMaker": true,
+      "baseDecimals": "18",
+      "quoteDecimals": "6",
+      "side": "sell",
+      "timestamp": "1711377140",
+      "rewarded": true,
+      "makerUserId": "22813",
+      "takerUserId": "22814",
+      "baseCurrencyId": "36",
+      "quoteCurrencyId": "3",
+      "feeMaker": {
+        "amount": "0",
+        "symbol": "dusd",
+        "userId": "22813",
+        "decimals": "18",
+        "symbolId": "36",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "feeTaker": {
+        "amount": "0",
+        "symbol": "usdt",
+        "userId": "22814",
+        "decimals": "6",
+        "symbolId": "3",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "pair": "dusd_usdt",
+      "createdAt": "2024-03-25T14:32:20.380Z",
+      "updatedAt": "2024-03-25T14:32:20.380Z",
+      "isCurrentSide": "maker"
+    },
+    "fees": [
+      {
+        "currency": "DUSD",
+        "cost": 0.0,
+        "rate": null
+      }
+    ]
+  },
+  {
+    "id": "39588264",
+    "order": "148775335",
+    "timestamp": 1711377316000,
+    "datetime": "2024-03-25T14:35:16.000Z",
+    "symbol": "DUSD/USDT",
+    "type": null,
+    "side": "buy",
+    "takerOrMaker": "maker",
+    "price": 0.999,
+    "amount": 29.331321,
+    "cost": 29.301989679,
+    "fee": {
+      "currency": "DUSD",
+      "cost": 0.0,
+      "rate": null
+    },
+    "info": {
+      "id": "39588264",
+      "tradeId": "350",
+      "makerOrderId": "148775335",
+      "takerOrderId": "148777276",
+      "pairId": "54",
+      "quantity": "29.331321",
+      "price": "0.999",
+      "isBuyerMaker": true,
+      "baseDecimals": "18",
+      "quoteDecimals": "6",
+      "side": "sell",
+      "timestamp": "1711377316",
+      "rewarded": true,
+      "makerUserId": "22813",
+      "takerUserId": "22814",
+      "baseCurrencyId": "36",
+      "quoteCurrencyId": "3",
+      "feeMaker": {
+        "amount": "0",
+        "symbol": "dusd",
+        "userId": "22813",
+        "decimals": "18",
+        "symbolId": "36",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "feeTaker": {
+        "amount": "0",
+        "symbol": "usdt",
+        "userId": "22814",
+        "decimals": "6",
+        "symbolId": "3",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "pair": "dusd_usdt",
+      "createdAt": "2024-03-25T14:35:16.326Z",
+      "updatedAt": "2024-03-25T14:35:16.326Z",
+      "isCurrentSide": "maker"
+    },
+    "fees": [
+      {
+        "currency": "DUSD",
+        "cost": 0.0,
+        "rate": null
+      }
+    ]
+  },
+  {
+    "id": "39588281",
+    "order": "148775335",
+    "timestamp": 1711377385000,
+    "datetime": "2024-03-25T14:36:25.000Z",
+    "symbol": "DUSD/USDT",
+    "type": null,
+    "side": "buy",
+    "takerOrMaker": "maker",
+    "price": 0.999,
+    "amount": 54.671772,
+    "cost": 54.617100228,
+    "fee": {
+      "currency": "DUSD",
+      "cost": 0.0,
+      "rate": null
+    },
+    "info": {
+      "id": "39588281",
+      "tradeId": "351",
+      "makerOrderId": "148775335",
+      "takerOrderId": "148778151",
+      "pairId": "54",
+      "quantity": "54.671772",
+      "price": "0.999",
+      "isBuyerMaker": true,
+      "baseDecimals": "18",
+      "quoteDecimals": "6",
+      "side": "sell",
+      "timestamp": "1711377385",
+      "rewarded": true,
+      "makerUserId": "22813",
+      "takerUserId": "9323",
+      "baseCurrencyId": "36",
+      "quoteCurrencyId": "3",
+      "feeMaker": {
+        "amount": "0",
+        "symbol": "dusd",
+        "userId": "22813",
+        "decimals": "18",
+        "symbolId": "36",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "feeTaker": {
+        "amount": "0.109234",
+        "symbol": "usdt",
+        "userId": "9323",
+        "decimals": "6",
+        "symbolId": "3"
+      },
+      "pair": "dusd_usdt",
+      "createdAt": "2024-03-25T14:36:25.165Z",
+      "updatedAt": "2024-03-25T14:40:00.231Z",
+      "isCurrentSide": "maker"
+    },
+    "fees": [
+      {
+        "currency": "DUSD",
+        "cost": 0.0,
+        "rate": null
+      }
+    ]
+  },
+  {
+    "id": "39588284",
+    "order": "148778257",
+    "timestamp": 1711377403000,
+    "datetime": "2024-03-25T14:36:43.000Z",
+    "symbol": "DUSD/USDT",
+    "type": null,
+    "side": "buy",
+    "takerOrMaker": "maker",
+    "price": 0.999,
+    "amount": 9.026235,
+    "cost": 9.017208765,
+    "fee": {
+      "currency": "DUSD",
+      "cost": 0.0,
+      "rate": null
+    },
+    "info": {
+      "id": "39588284",
+      "tradeId": "352",
+      "makerOrderId": "148778257",
+      "takerOrderId": "148778386",
+      "pairId": "54",
+      "quantity": "9.026235",
+      "price": "0.999",
+      "isBuyerMaker": true,
+      "baseDecimals": "18",
+      "quoteDecimals": "6",
+      "side": "sell",
+      "timestamp": "1711377403",
+      "rewarded": true,
+      "makerUserId": "22813",
+      "takerUserId": "22814",
+      "baseCurrencyId": "36",
+      "quoteCurrencyId": "3",
+      "feeMaker": {
+        "amount": "0",
+        "symbol": "dusd",
+        "userId": "22813",
+        "decimals": "18",
+        "symbolId": "36",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "feeTaker": {
+        "amount": "0",
+        "symbol": "usdt",
+        "userId": "22814",
+        "decimals": "6",
+        "symbolId": "3",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "pair": "dusd_usdt",
+      "createdAt": "2024-03-25T14:36:42.724Z",
+      "updatedAt": "2024-03-25T14:36:42.724Z",
+      "isCurrentSide": "maker"
+    },
+    "fees": [
+      {
+        "currency": "DUSD",
+        "cost": 0.0,
+        "rate": null
+      }
+    ]
+  },
+  {
+    "id": "39588285",
+    "order": "148778257",
+    "timestamp": 1711377406000,
+    "datetime": "2024-03-25T14:36:46.000Z",
+    "symbol": "DUSD/USDT",
+    "type": null,
+    "side": "buy",
+    "takerOrMaker": "maker",
+    "price": 0.999,
+    "amount": 45.47905756,
+    "cost": 45.43357850244,
+    "fee": {
+      "currency": "DUSD",
+      "cost": 0.0,
+      "rate": null
+    },
+    "info": {
+      "id": "39588285",
+      "tradeId": "353",
+      "makerOrderId": "148778257",
+      "takerOrderId": "148778429",
+      "pairId": "54",
+      "quantity": "45.47905756",
+      "price": "0.999",
+      "isBuyerMaker": true,
+      "baseDecimals": "18",
+      "quoteDecimals": "6",
+      "side": "sell",
+      "timestamp": "1711377406",
+      "rewarded": true,
+      "makerUserId": "22813",
+      "takerUserId": "9323",
+      "baseCurrencyId": "36",
+      "quoteCurrencyId": "3",
+      "feeMaker": {
+        "amount": "0",
+        "symbol": "dusd",
+        "userId": "22813",
+        "decimals": "18",
+        "symbolId": "36",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "feeTaker": {
+        "amount": "0.090867",
+        "symbol": "usdt",
+        "userId": "9323",
+        "decimals": "6",
+        "symbolId": "3"
+      },
+      "pair": "dusd_usdt",
+      "createdAt": "2024-03-25T14:36:45.997Z",
+      "updatedAt": "2024-03-25T14:40:00.231Z",
+      "isCurrentSide": "maker"
+    },
+    "fees": [
+      {
+        "currency": "DUSD",
+        "cost": 0.0,
+        "rate": null
+      }
+    ]
+  },
+  {
+    "id": "39588363",
+    "order": "148759073",
+    "timestamp": 1711377746000,
+    "datetime": "2024-03-25T14:42:26.000Z",
+    "symbol": "DUSD/USDT",
+    "type": null,
+    "side": "sell",
+    "takerOrMaker": "maker",
+    "price": 1.001,
+    "amount": 12.967845,
+    "cost": 12.980812845,
+    "fee": {
+      "currency": "USDT",
+      "cost": 0.0,
+      "rate": null
+    },
+    "info": {
+      "id": "39588363",
+      "tradeId": "354",
+      "makerOrderId": "148759073",
+      "takerOrderId": "148782891",
+      "pairId": "54",
+      "quantity": "12.967845",
+      "price": "1.001",
+      "isBuyerMaker": false,
+      "baseDecimals": "18",
+      "quoteDecimals": "6",
+      "side": "buy",
+      "timestamp": "1711377746",
+      "rewarded": true,
+      "makerUserId": "22813",
+      "takerUserId": "22814",
+      "baseCurrencyId": "36",
+      "quoteCurrencyId": "3",
+      "feeMaker": {
+        "amount": "0",
+        "symbol": "usdt",
+        "userId": "22813",
+        "decimals": "6",
+        "symbolId": "3",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "feeTaker": {
+        "amount": "0",
+        "symbol": "dusd",
+        "userId": "22814",
+        "decimals": "18",
+        "symbolId": "36",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "pair": "dusd_usdt",
+      "createdAt": "2024-03-25T14:42:26.085Z",
+      "updatedAt": "2024-03-25T14:42:26.085Z",
+      "isCurrentSide": "maker"
+    },
+    "fees": [
+      {
+        "currency": "USDT",
+        "cost": 0.0,
+        "rate": null
+      }
+    ]
+  },
+  {
+    "id": "39588382",
+    "order": "148778257",
+    "timestamp": 1711377837000,
+    "datetime": "2024-03-25T14:43:57.000Z",
+    "symbol": "DUSD/USDT",
+    "type": null,
+    "side": "buy",
+    "takerOrMaker": "maker",
+    "price": 0.999,
+    "amount": 27.665081,
+    "cost": 27.637415919,
+    "fee": {
+      "currency": "DUSD",
+      "cost": 0.0,
+      "rate": null
+    },
+    "info": {
+      "id": "39588382",
+      "tradeId": "356",
+      "makerOrderId": "148778257",
+      "takerOrderId": "148784067",
+      "pairId": "54",
+      "quantity": "27.665081",
+      "price": "0.999",
+      "isBuyerMaker": true,
+      "baseDecimals": "18",
+      "quoteDecimals": "6",
+      "side": "sell",
+      "timestamp": "1711377837",
+      "rewarded": true,
+      "makerUserId": "22813",
+      "takerUserId": "22814",
+      "baseCurrencyId": "36",
+      "quoteCurrencyId": "3",
+      "feeMaker": {
+        "amount": "0",
+        "symbol": "dusd",
+        "userId": "22813",
+        "decimals": "18",
+        "symbolId": "36",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "feeTaker": {
+        "amount": "0",
+        "symbol": "usdt",
+        "userId": "22814",
+        "decimals": "6",
+        "symbolId": "3",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "pair": "dusd_usdt",
+      "createdAt": "2024-03-25T14:43:57.029Z",
+      "updatedAt": "2024-03-25T14:43:57.029Z",
+      "isCurrentSide": "maker"
+    },
+    "fees": [
+      {
+        "currency": "DUSD",
+        "cost": 0.0,
+        "rate": null
+      }
+    ]
+  },
+  {
+    "id": "39588463",
+    "order": "148783302",
+    "timestamp": 1711378175000,
+    "datetime": "2024-03-25T14:49:35.000Z",
+    "symbol": "DUSD/USDT",
+    "type": null,
+    "side": "sell",
+    "takerOrMaker": "maker",
+    "price": 1.001,
+    "amount": 5.922622,
+    "cost": 5.928544622,
+    "fee": {
+      "currency": "USDT",
+      "cost": 0.0,
+      "rate": null
+    },
+    "info": {
+      "id": "39588463",
+      "tradeId": "359",
+      "makerOrderId": "148783302",
+      "takerOrderId": "148788335",
+      "pairId": "54",
+      "quantity": "5.922622",
+      "price": "1.001",
+      "isBuyerMaker": false,
+      "baseDecimals": "18",
+      "quoteDecimals": "6",
+      "side": "buy",
+      "timestamp": "1711378175",
+      "rewarded": true,
+      "makerUserId": "22813",
+      "takerUserId": "22814",
+      "baseCurrencyId": "36",
+      "quoteCurrencyId": "3",
+      "feeMaker": {
+        "amount": "0",
+        "symbol": "usdt",
+        "userId": "22813",
+        "decimals": "6",
+        "symbolId": "3",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "feeTaker": {
+        "amount": "0",
+        "symbol": "dusd",
+        "userId": "22814",
+        "decimals": "18",
+        "symbolId": "36",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "pair": "dusd_usdt",
+      "createdAt": "2024-03-25T14:49:35.039Z",
+      "updatedAt": "2024-03-25T14:49:35.039Z",
+      "isCurrentSide": "maker"
+    },
+    "fees": [
+      {
+        "currency": "USDT",
+        "cost": 0.0,
+        "rate": null
+      }
+    ]
+  },
+  {
+    "id": "39588490",
+    "order": "148783302",
+    "timestamp": 1711378276000,
+    "datetime": "2024-03-25T14:51:16.000Z",
+    "symbol": "DUSD/USDT",
+    "type": null,
+    "side": "sell",
+    "takerOrMaker": "maker",
+    "price": 1.001,
+    "amount": 22.613065,
+    "cost": 22.635678065,
+    "fee": {
+      "currency": "USDT",
+      "cost": 0.0,
+      "rate": null
+    },
+    "info": {
+      "id": "39588490",
+      "tradeId": "360",
+      "makerOrderId": "148783302",
+      "takerOrderId": "148789660",
+      "pairId": "54",
+      "quantity": "22.613065",
+      "price": "1.001",
+      "isBuyerMaker": false,
+      "baseDecimals": "18",
+      "quoteDecimals": "6",
+      "side": "buy",
+      "timestamp": "1711378276",
+      "rewarded": true,
+      "makerUserId": "22813",
+      "takerUserId": "22814",
+      "baseCurrencyId": "36",
+      "quoteCurrencyId": "3",
+      "feeMaker": {
+        "amount": "0",
+        "symbol": "usdt",
+        "userId": "22813",
+        "decimals": "6",
+        "symbolId": "3",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "feeTaker": {
+        "amount": "0",
+        "symbol": "dusd",
+        "userId": "22814",
+        "decimals": "18",
+        "symbolId": "36",
+        "discountAmount": "0",
+        "discountSymbol": "btt",
+        "discountDecimals": "18",
+        "discountSymbolId": "5"
+      },
+      "pair": "dusd_usdt",
+      "createdAt": "2024-03-25T14:51:15.732Z",
+      "updatedAt": "2024-03-25T14:51:15.732Z",
+      "isCurrentSide": "maker"
+    },
+    "fees": [
+      {
+        "currency": "USDT",
+        "cost": 0.0,
+        "rate": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "id": "dusd_usdt",
+  "lowercaseId": null,
+  "symbol": "DUSD/USDT",
+  "base": "DUSD",
+  "quote": "USDT",
+  "settle": null,
+  "baseId": "dusd",
+  "quoteId": "usdt",
+  "settleId": null,
+  "type": "spot",
+  "spot": true,
+  "margin": false,
+  "swap": false,
+  "future": false,
+  "option": false,
+  "index": false,
+  "active": true,
+  "contract": false,
+  "linear": null,
+  "inverse": null,
+  "subType": null,
+  "taker": null,
+  "maker": null,
+  "contractSize": null,
+  "expiry": null,
+  "expiryDatetime": null,
+  "strike": null,
+  "optionType": null,
+  "precision": {
+    "amount": 8,
+    "price": 6,
+    "cost": null,
+    "base": null,
+    "quote": null
+  },
+  "limits": {
+    "leverage": {
+      "min": null,
+      "max": null
+    },
+    "amount": {
+      "min": null,
+      "max": null
+    },
+    "price": {
+      "min": null,
+      "max": null
+    },
+    "cost": {
+      "min": 0.1,
+      "max": null
+    }
+  },
+  "created": 1711173483203,
+  "info": {
+    "id": "54",
+    "name": "dusd_usdt",
+    "baseAssetId": "36",
+    "quoteAssetId": "3",
+    "fullName": "DUSD USDT",
+    "description": "Bitteam trade DUSD",
+    "lastBuy": "1.001",
+    "lastSell": "0.999",
+    "lastPrice": "0.999",
+    "change24": null,
+    "volume24": null,
+    "volume24USD": null,
+    "active": true,
+    "baseStep": "8",
+    "quoteStep": "6",
+    "status": "1",
+    "settings": {
+      "limit_usd": "0.1",
+      "price_max": "10000000000000",
+      "price_min": "1",
+      "price_tick": "1",
+      "pricescale": "10000",
+      "lot_size_max": "1000000000000000",
+      "lot_size_min": "1",
+      "lot_size_tick": "1",
+      "price_view_min": "6",
+      "default_slippage": "20",
+      "lot_size_view_min": "6"
+    },
+    "updateId": "356",
+    "timeStart": "2024-03-23T05:58:03.203Z",
+    "makerFee": "200",
+    "takerFee": "200",
+    "quoteVolume24": null,
+    "lowPrice24": null,
+    "highPrice24": null
+  },
+  "percentage": true,
+  "feeSide": "get",
+  "tierBased": false,
+  "numericId": 54
+}
