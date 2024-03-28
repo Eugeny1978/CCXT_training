@@ -27,7 +27,7 @@ connect = ccxt.bitteam(BITTIM_KEYS)
 # ledger = connect.fetch_ledger() # ccxt.base.errors.NotSupported: bitteam fetchLedger() is not supported yet
 # jprint(ledger)
 #
-my_trades = connect.fetch_my_trades(SYMBOL)
+my_trades = connect.fetch_my_trades(SYMBOL) # нормально - Перевернул строну у мейкера как и должно быть
 jprint(my_trades)
 
 
